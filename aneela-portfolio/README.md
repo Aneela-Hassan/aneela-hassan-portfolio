@@ -1,6 +1,6 @@
 # Aneela Hassan | Portfolio
 
-Live site: https://YOUR-SITE-NAME.vercel.app
+Live site: https://aneela-hassan-portfolio.vercel.app
 
 Built with React + Vite, deployed on Vercel from GitHub.
 

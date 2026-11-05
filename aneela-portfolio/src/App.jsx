@@ -4,9 +4,9 @@ const profile = {
   role: 'Computer Applications Student',
   tagline:
     'I like understanding how things work from first principles: compilers, operating systems, databases and AI.',
-  email: 'your-email@example.com',
-  github: 'https://github.com/your-username',
-  linkedin: 'https://www.linkedin.com/in/your-username',
+  
+  github_repo: 'https://aneela-hassan-portfolio.vercel.app',
+  linkedin: 'https://www.linkedin.com/in/aneela-hassan-4499202a4/',
 }
 
 const projects = [
